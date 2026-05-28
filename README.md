@@ -32,6 +32,6 @@ php artisan serve
 
 ## Google Drive Link of Screen Recording Demonstration
 
-> https://drive.google.com/drive/folders/1jx2OX8ej5R3CKCokdwlWiTJVkvgnUcsq?usp=sharing
+ < https://drive.google.com/drive/folders/1jx2OX8ej5R3CKCokdwlWiTJVkvgnUcsq?usp=sharing >
 
 
