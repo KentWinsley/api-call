@@ -14,15 +14,16 @@ This project demonstrates API testing in Laravel using Postman. It includes CRUD
 
 ## Setup Instructions
 
-1. Open the project folder in VS Code
-2. Open the terminal
-3. Run the following commands:
+1. Open Xampp and start apache and mysql (I'm using port 3307)
+2. Open the project folder in VS Code
+3. Open the terminal
+4. Run the following commands:
 
 ```
 php artisan migrate/fresh
 php artisan db:seed
-php artisan serve
 curl http://127.0.0.1:8000/api/students
+php artisan serve
 
 ```
 
